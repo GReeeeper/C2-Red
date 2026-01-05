@@ -1,0 +1,16 @@
+# Binaries
+implant
+implant.exe
+server
+server.exe
+
+# Go
+go.sum
+vendor/
+
+# C++ Objects
+*.o
+*.obj
+
+# OS
+.DS_Store
