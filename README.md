@@ -90,7 +90,8 @@ g++ implant.cpp -o implant -lcurl
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of your Dashboard here)*
+<img width="908" height="623" alt="image" src="https://github.com/user-attachments/assets/356eef44-9117-4372-af52-67a2b1b8c049" />
+
 
 ---
 
