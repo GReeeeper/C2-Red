@@ -39,10 +39,10 @@
 
 ```mermaid
 graph LR
-    A[Operator] -->|GUI (Python)| B(TeamServer :8080)
-    C[Implant (C++)] -->|HTTP Beacon| B
-    B -->|Task Queue| C
-    C -->|Cmd Output| B
+    A["Operator"] -->|"GUI (Python)"| B("TeamServer :8080")
+    C["Implant (C++)"] -->|"HTTP Beacon"| B
+    B -->|"Task Queue"| C
+    C -->|"Cmd Output"| B
 ```
 
 ---
